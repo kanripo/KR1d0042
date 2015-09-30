@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮章句
-#+DATE: 2015-09-23 09:37:51
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:09:25.846723
+#+PROPERTY: ID KR1d0042
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1d0042_WYG_010-1a>¶
 欽定四庫全書¶
 　儀禮章句卷十¶
@@ -128,4 +130,3 @@
 　(俱謂之偏王門國門也偏/駕不入故乗墨車以朝)奠圭于繅上(侯氏入門奠/圭也康圭有)¶
 　(坫曰繅上者時方屈繅纒于/圭自旁觀視之如在繅上也)¶
 　儀禮章句卷十¶
-
